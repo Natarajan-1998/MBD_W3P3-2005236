@@ -1,0 +1,8 @@
+Lf = 0.9;    % front hub displacement from body gravity center (m)
+Lr = 1.2;    % rear hub displacement from body gravity center (m)
+Mb = 1200;   % body mass (kg)
+Iyy = 2100;  % body moment of inertia about y-axis in (kg m^2)
+kf = 28000;  % front suspension stiffness in (N/m)
+kr = 21000;  % rear suspension stiffness in (N/m)
+cf = 2500;   % front suspension damping in (N sec/m)
+cr = 2000;   % rear suspension damping in (N sec/m)
